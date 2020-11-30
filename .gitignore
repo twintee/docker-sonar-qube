@@ -1,0 +1,8 @@
+sonar
+pos
+modpy
+__pycache__
+
+sonar-l10n-ja
+
+.env
