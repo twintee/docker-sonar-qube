@@ -1,7 +1,7 @@
-# SonarQube Docker
+# docker-sonarqube
 
 require
-- ubuntu :16.*, 18.*
+- ubuntu :18.* or later
 
 # usage
 1. pythonのモジュールを追加する
